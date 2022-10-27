@@ -1,6 +1,6 @@
 import re
 
-from wazuh_testing import T_10, T_20, T_60
+from wazuh_testing import T_10, T_60
 from wazuh_testing.modules.analysisd import ANALYSISD_PREFIX, MAILD_PREFIX
 from wazuh_testing import LOG_FILE_PATH, ANALYSISD_STATE
 from wazuh_testing.tools.monitoring import FileMonitor, generate_monitoring_callback_groups
