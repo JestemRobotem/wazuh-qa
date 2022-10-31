@@ -34,7 +34,7 @@ Release report: TBD
 
 ### Changed
 
-- Change integratord test to use slack instead of virustotal ([#3540](https://github.com/wazuh/wazuh-qa/pull/3540)) \- (Tests)
+- Change integratord test to use slack instead of virustotal ([#3540](https://github.com/wazuh/wazuh-qa/pull/3540)) \- (Framework + Tests)
 - Update wazuhdb_getconfig and EPS limit integration tests ([#3146](https://github.com/wazuh/wazuh-qa/pull/3146)) \- (Tests)
 - Refactor: logcollector `test_only_future_events` according to new standard. ([3484](https://github.com/wazuh/wazuh-qa/pull/3484)) \- (Framework + Tests)
 - Change required version of urllib3 and requests dependencies ([#3315](https://github.com/wazuh/wazuh-qa/pull/3315)) \- (Framework)
