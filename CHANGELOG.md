@@ -54,6 +54,7 @@ Release report: TBD
 
 ### Changed
 
+- Update pattern and expected condition for multi_groups tests ([#3565](https://github.com/wazuh/wazuh-qa/pull/3565)) \- (Tests)
 - Skip unstable integration tests for gcloud ([#3531](https://github.com/wazuh/wazuh-qa/pull/3531)) \- (Tests)
 - Skip unstable integration test for agentd ([#3538](https://github.com/wazuh/wazuh-qa/pull/3538))
 - Update wazuhdb_getconfig and EPS limit integration tests ([#3146](https://github.com/wazuh/wazuh-qa/pull/3146)) \- (Tests)
